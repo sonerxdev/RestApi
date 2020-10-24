@@ -1,1 +1,26 @@
-
+[
+{
+    "todaybackgroundGif": "asd",
+    "firtsArea": "Beşiktaş",
+    "secondArea": "İstanbul",
+    "firstAreaTodayDegree": 23,
+    "secondAreaTodayDegree": 22,
+    "firstAreaTodayStatus": "Açık",
+    "secondAreaTodayStatus": "Açık",
+    "yesterdayDegree": "22/10",
+    "todayDegree": "23/10",
+    "tomorrowDegree": "23/10",
+    "thirthdayDegree": "23/10",
+    "fifthdayDegree": "23/10",
+    "yesterdayStatus": "Bulutlu",
+    "tomorrowStatus": "Güneşli",
+    "thirthdayStatus": "Rüzgarlı",
+    "fifthdayStatus": "Açık",
+    "yesterdayAirway": "Kuzeydoğu 13km/s",
+    "todayAirway": "Kuzeydoğu 13km/s",
+    "tomorrowAirway": "Kuzeydoğu 13km/s",
+    "thirthdayAirway": "Kuzeydoğu 13km/s",
+    "fifthdayAirway": "Kuzeydoğu 13km/s"
+  
+  },
+]
