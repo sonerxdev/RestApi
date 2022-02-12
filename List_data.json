@@ -1,4 +1,4 @@
-ist_data = [
+list_data = [
   {
     "base": 'BTC',
     "quote": 'USDT',
